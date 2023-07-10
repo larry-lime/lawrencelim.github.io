@@ -1,6 +1,6 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/larry-lime/new-personal-website
 [submodule "themes/raditian-free-hugo-theme"]
 	path = themes/raditian-free-hugo-theme
 	url = https://github.com/radity/raditian-free-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/larry-lime/lawrencelim.github.io
