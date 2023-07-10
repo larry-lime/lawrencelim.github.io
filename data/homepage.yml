@@ -40,7 +40,7 @@ about:
   title: "Who am I?"
   content: '
     <p class="lead">
-    I’m a very easy going, sociable, fast-learner, curious and natural leader. I love what I do and I really enjoy leading a team 
+    I’m a very easy going, sociable, fast-learner, curious and natural leader. I love what I do and I really enjoy leading a team
 
     <p class="lead">
     On the technical side, I work mainly in Python, though I am working on expand my language skillset by working on some projects in Rust.
@@ -69,9 +69,9 @@ education:
       year: "2021-2025"
       degree: "Bachelor of Science (BSc), Computer Science"
 
-    - university: "SJTU-THU-PKU"
-      year: "July 2023"
-      degree: "Summer Program, Computer Science"
+    - university: "Tenafly High School"
+      year: "Sep 2016 - June 2020"
+      degree: "High School Diploma, AP Scholar with Honors"
 
 # experience
 experience:
@@ -138,25 +138,25 @@ client_and_work:
 
   works:
     - title: "K Transformer - Natural language to SQL"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      description: "Natural language to SQL conversion that supports Q&A style interaction. Does not require user to know database schema"
       button:
         icon: "icon-arrow-right"
-        btnText: "See more"
-        URL: "#"
+        btnText: "Try it Out"
+        URL: "https://transformer.knn3.xyz/playground/aisql"
       image:
         x: "img/K_transformer.jpg"
         _2x: "img/K_transformer.jpg"
       is_even: true
 
     - title: "Airline Ticket System - Expedia Clone"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      description: "Leveraged Flask, MySQL database, and Bootstrap CSS to create an airline booking system inspired by Expedia.com. Utilizes functions such as session tokens, user password hashing, and SQL triggers"
       button:
         icon: "icon-arrow-right"
         btnText: "See more"
-        URL: "#"
+        URL: "https://github.com/larry-lime/airline-ticket-system"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/airline_project_screenshot.png"
+        _2x: "img/airline_project_screenshot.png"
       is_even: false
 
     - title: "Pyfinny - Financial Analysis CLI"
@@ -164,10 +164,10 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "See more"
-        URL: "#"
+        URL: "https://github.com/larry-lime/MeChat"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/mechat_image.jpg"
+        _2x: "img/mechat_image.jpg"
       is_even: true
 
 # contact
