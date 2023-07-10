@@ -57,7 +57,7 @@ theme = "raditian-free-hugo-theme"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
+  name = "Projects"
   URL = "#portfolio"
   weight = 3
 
@@ -65,6 +65,16 @@ theme = "raditian-free-hugo-theme"
   name = "Contact"
   URL = "#contact"
   weight = 4
+  
+  [[menu.footer]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 6
 
 [params]
 
@@ -77,8 +87,8 @@ theme = "raditian-free-hugo-theme"
     text2 = "Lim"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Lawrence Lim."
       [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+        # x = "img/general/design-and-code-radity.png"
+        # _2x = "img/general/design-and-code-radity@2x.png"
+        # alt = "Design & Code - Radity"

@@ -8,12 +8,12 @@ showcase:
     x: "img/ll_profile_pic.jpg"
     _2x: "img/ll_profile_pic.jpg"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/ll_profile_pic.jpg"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "mailto:ll4715@nyu.edu"
+    URL: "#contact"
 
   socialLinks:
     - icon: "linkedin"
@@ -40,15 +40,16 @@ about:
   title: "Who am I?"
   content: '
     <p class="lead">
-    I’m a very easy going, sociable, fast-learner, curious and natural leader. I do what I love, and I love what I do. I lead by example and work side by side with my teams.
-
-    <p class="lead">
-    At my work, I work primarily in Python, using FastAPI and the LangChain framework to develop features that take advantage of the cababilities of LLMs
-    Beyond work, I am especially curious about blockchain applications and Zero-knowledge proofs.
+    I’m a very easy going, sociable, fast-learner, curious and natural leader. I love what I do and I really enjoy leading a team 
 
     <p class="lead">
     On the technical side, I work mainly in Python, though I am working on expand my language skillset by working on some projects in Rust.
     In terms of learning interests, I am especially curious about blockchain applications and Zero-knowledge proofs.
+
+    <p class="lead">
+    Alongside my role as a programmer, I possess significant leadership experience gained from various workplace and student organization engagements.
+    I derive immense satisfaction from collaborating within a team to achieve objectives that surpass our individual skillsets.
+
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -84,8 +85,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "docs/resume.pdf"
-    URL: "docs/resume.pdf"
+    URL: "docs/lawrence_lim_resume/resume.pdf"
 
   items:
     - title: "Software Engineering Intern"
@@ -144,8 +144,8 @@ client_and_work:
         btnText: "See more"
         URL: "#"
       image:
-        x: "img/works/K_transformer.jpg"
-        _2x: "img/works/K_transformer.jpg"
+        x: "img/K_transformer.jpg"
+        _2x: "img/K_transformer.jpg"
       is_even: true
 
     - title: "Airline Ticket System - Expedia Clone"
@@ -187,9 +187,9 @@ contact:
     title: "Email"
     email: '<a href="mailto:ll4715@nyu.edu">ll4715@nyu.edu</a>'
   # TODO: Update this when I can
-  address:
-    title: "Address"
-    address: "424 Newburgh Court, West New York, New Jersey, USA"
+  # address:
+  #   title: "Address"
+  #   address: "424 Newburgh Court, West New York, New Jersey, USA"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
