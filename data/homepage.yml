@@ -57,8 +57,8 @@ about:
     URL: "https://www.linkedin.com/in/lawrence-rx-lim/"
   # TODO: Change this!
   image:
-    x: "img/llim_talking.jpg"
-    _2x: "img/llim_talking.jpg"
+    x: "img/llim_talking_slim.jpg"
+    _2x: "img/llim_talking_slim.jpg"
 
 # education
 education:
