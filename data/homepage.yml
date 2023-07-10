@@ -140,7 +140,7 @@ client_and_work:
 
   works:
     - title: "K Transformer - Natural language to SQL"
-      description: "Natural language to SQL conversion that supports Q&A style interaction. Does not require user to know database schema"
+      description: "Natural language to SQL conversion feature for Knn3's K Transformer product. This feature supports Q&A style interaction and does not require user to know database schema"
       button:
         icon: "icon-arrow-right"
         btnText: "Try it Out"
@@ -161,8 +161,9 @@ client_and_work:
         _2x: "img/airline_project_screenshot.png"
       is_even: false
 
-    - title: "Pyfinny - Financial Analysis CLI"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "MeChat – Python GUI Desktop Chat App"
+      description: "Utilizes web sockets for communication, end-to-end RSI encryption for security, and client-side multi-threading. Uses Tkinter Python library used for the GUI. Project currently used as a showcase in Intro to Comp. Sci class
+"
       button:
         icon: "icon-arrow-right"
         btnText: "See more"
