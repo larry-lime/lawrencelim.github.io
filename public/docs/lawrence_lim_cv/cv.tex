@@ -1,0 +1,178 @@
+\documentclass{cv} % Use the custom resume.cls style
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.2in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.1667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Lawrence Lim}
+\address{+86 189 1752 5187 \\ \href{mailto:ll4715@nyu.edu}{ll4715@nyu.edu} \\ New York, NY}
+\address{Homepage: \href{https://lawrencelim.xyz/}{lawrencelim.xyz} \\
+	Github: \href{https://github.com/larry-lime}{larry-lime} \\
+	LinkedIn: \href{https://www.linkedin.com/in/lawrence-rx-lim/}{lawrence-rx-lim}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% Education Section
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+	\textbf{New York University} \hfill Expected Completion: Sep 2021 - May 2025\\
+	Bachelor's Degree, Computer Science Major \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Cumulative GPA - 3.83/4.00; Major GPA - 3.85/4.00
+	\end{itemize}
+
+	% TODO: Update this so that it matches with LinkedIn
+	\textbf{SJTU-THU-PKU Summer Program} \hfill July 2023\\
+	Bachelor's Degree, Computer Science Major \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Course List: Cryptography and Blockchain, Artificial Intelligence
+	\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Work Experience Section
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{WORK EXPERIENCE}
+
+	\textbf{Software Engineer Intern} \hfill Mar 2023 - Present\\
+	Knn3 – User-centric DataFi solution for d/Apps and smart contracts  \hfill \textit{(Remote) Singapore}
+	% TODO: Have some provable increase in performance metric. Replace second item with benchmark results
+	\begin{itemize}
+		\item Prototyped and researched Natural Language (NL) to SQL conversion methods leveraging LLM prompt chaining
+		\item Built testing benchmark to evaluate the accuracy, speed, and cost of methods for generating SQL from NL
+		\item Significanly improved benchmark performance by leveraging sentence transformers, Redis Cosine similarity search
+		\item Containerized application with Docker, automated building, testing, and deployment to AWS with Jenkins CI/CD
+	\end{itemize}
+
+	\textbf{Technology Consultant Intern} \hfill Sep 2022 - May 2023\\
+	Jika.io – Social community platform built for investors \hfill \textit{(Remote) Tel Aviv, Isreal}
+	\begin{itemize}
+		\item Constructed MongoDB to Google Bigquery data pipeline. Enabled data analysis and visualization with SQL
+		\item Played primary role in designing relational schema and orchestrating each step of the ETL process
+	\end{itemize}
+
+	\textbf{Blockchain Research Analyst} \hfill May 2022 - Sep 2022 \\
+	TokenInsight \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Research topics include zero-knowledge-proof rollups, optimistic rollups, and Ethereum’s development timeline.
+		\item Wrote technical articles on various blockchain protocols and architecture. Also researched blockchain valuation and risk assessment. Served as core member of TokenInsight’s research team.
+	\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Personal Projects
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Projects}
+
+	% TODO: Elaborate on this
+	\textbf{Airline Booking System – Full Stack Python Flask Application \href{https://github.com/larry-lime/airline-ticket-system}{View Project}}
+	\begin{itemize}
+		\item Leveraged Flask, MySQL database, and Bootstrap CSS to create an airline booking system inspired by Expedia.com
+		\item Utilizes functions such as session tokens, user password hashing, and SQL triggers. Deployed on Railway.app
+	\end{itemize}
+
+	\textbf{Decentralized Crowd Funding – Full Stack Solidity and JavaScript d/App \href{https://lawrencelim.xyz/project/hh-fund-me/}{View Project}}
+	\begin{itemize}
+		\item Full stack Ethereum crowd funding app with Solidity and Hardhat for backend, and HTML/CSS/JS for frontend.
+		\item Uses Chainlink Price Feeds for off-chain data with MetaMask and Ethereum Provider API for user payments.
+	\end{itemize}
+
+	\textbf{MeChat – Python GUI Desktop Chat App \href{https://lawrencelim.xyz/project/mechat/}{View Project}}
+	% NOTE: I should probably remove Tkinter here. it's note impressive
+	\begin{itemize}
+		\item Utilizes web sockets for communication, end-to-end RSI encryption for security, and client-side multi-threading.
+		\item Uses Tkinter Python library used for the GUI. Project currently used as a showcase in Intro to Comp. Sci class
+	\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Research Experience
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Research}
+
+	\textbf{Packet Trace Anonymization} \hfill Dec 2022 - May 2023 \\
+	NYU Shanghai Computer Science Department - Advised by Prof. Guyue (Grace) Liu \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Built, modified, and tested network packet anonymization tools. Analyzed and compared their TCP/IP anonymization policies by conducting literature review, analyzing source code, and reading documentation.
+		\item Using methodologies from tcpdpriv, tcpmkpub, and tcpdpriv to develop new secure packet anonymizer in C.
+	\end{itemize}
+
+	\textbf{Crypto Asset Rating Methodology Framework} \hfill May 2022 - Jan 2023 \\
+	Dean’s Undergraduate Research Fund - Advised by Prof. Jiding Zhang \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Investigated how crypto rating methodologies can be improved through a holistic overview of the project, conducting data analysis on off chain metrics and on chain data to derive a performance rating, and using smart contract code auditing to determine a security rating.
+		\item Developed smart contract applications and wrote tests with code coverage as a part of understanding full stack smart contract development and security practices.
+	\end{itemize}
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% Leadership Positions
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Leadership Positions}
+
+	\textbf{President} \hfill May 2022 - May 2023 \\
+	Undergraduate Business Association (UBA) @ NYU Shanghai \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Managed a club of 80+ members that held workshop, speaker series, and mentorship events on a weekly basis.
+		\item Hosted inaugural UBA Spring Business Competition with data analysis, investing, and marketing tracks
+		\item Our organization's impact on campus was recognized with the "Trailblazer" award, given to the most innovative and pioneering student organization in NYU Shanghai.
+	\end{itemize}
+
+	\textbf{Orientation Ambassador Captain} \hfill Mar 2022 - Sep 2022 \\
+	New Student Programs @ NYU Shanghai \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Led a team of eight Orientation Ambassadors over four months to plan and host a Game Night during Freshmen Orientation Week, one of the four major OA organized events.
+		\item Primarily delegated tasks, managed budget, and coordinated with Student Life staff to achieve a successful event.
+	\end{itemize}
+
+	\textbf{Class of 2025 President} \hfill Sep 2021 - May 2022 \\
+	Student Government @ NYU Shanghai \hfill \textit{Shanghai, China}
+	\begin{itemize}
+		\item Led the organization and planning of NYU Shanghai’s week-long Spirit Week event and received over 100+ registered participants on kick-off day.
+		\item Worked with the Class Engagement Board to plan and host a week of online events to support NYU Shanghai students during the 2022 Shanghai Lockdown.
+		\item Served as the voice of my class and aggregated questions and concerns from the student body, and presented them, in the form of a report, at weekly student government meetings.
+	\end{itemize}
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	Technical Skills
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Technical Skills}
+	\textbf{Programming Languages}{: Python (fluent), SQL (fluent), HTML/CSS (proficient), Solidity (proficient), C (prior experience),  Javascript (prior experience), Shell  (proficient), Lua (prior experience)} \\
+	\textbf{Frameworks and Libraries}{: FastAPI, LangChain, Pytest, Flask, Hardhat, Pandas, Matplotlib, Numpy} \\
+	\textbf{Developer Tools}{: Git and Github, Docker, Jenkins, Debian Linux, venv/Poetry, Vim, Vscode} \\
+	\textbf{Cloud/Databases}{: MySQL, Redis, Redis Stack Server, Google Cloud BigQuery} \\
+	\textbf{Coursework}{: Databases, Computer Architecture, Data Structures, Discrete Math, Linear Algebra} \\
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Honors and Awards
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Honors and Awards}
+	\begin{itemize}
+		\item \textbf{Leadership in Action}{: Outstanding individual leadership in NYUSH student organizations} \hfill April 2023
+		\item \textbf{Recognition Award}{: Excellent academic performance and contributions to the NYUSH community} \hfill July 2022
+	\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Hobbies and Interests
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Hobbies and Interests}
+	\begin{itemize}
+		\item \textbf{Leadership in Action}{: Outstanding individual leadership in NYUSH student organizations} \hfill April 2023
+		\item \textbf{Recognition Award}{: Excellent academic performance and contributions to the NYUSH community} \hfill July 2022
+		\item \textbf{Areas of Interest}{: Blockchain Development, Zero Knowledge Proof Applications, Backend Web Development}
+	\end{itemize}
+\end{rSection}
+
+\end{document}
