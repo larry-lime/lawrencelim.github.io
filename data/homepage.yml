@@ -144,8 +144,8 @@ client_and_work:
         btnText: "See more"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/K_transformer.jpg"
+        _2x: "img/works/K_transformer.jpg"
       is_even: true
 
     - title: "Airline Ticket System - Expedia Clone"
