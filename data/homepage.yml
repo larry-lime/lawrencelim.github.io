@@ -7,7 +7,6 @@ showcase:
   image:
     x: "img/ll_profile_pic.jpg"
     _2x: "img/ll_profile_pic.jpg"
-  # TODO: Update the images here
   imageMobile:
     x: "img/showcase/showcase-mobile.jpg"
 
