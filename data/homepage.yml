@@ -5,9 +5,11 @@ showcase:
   subtitle: "CS Student & SWE Intern"
   description: "I am a Computer science student at NYU Shanghai and currently a Software Engineer intern at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>. I also have a curiosity and growing passion for entreprenuership."
   image:
+    alt: "Lawrence image"
     x: "img/ll_profile_pic.jpg"
     _2x: "img/ll_profile_pic.jpg"
   imageMobile:
+    alt: "Lawrence image"
     x: "img/ll_profile_pic.jpg"
 
   button:
