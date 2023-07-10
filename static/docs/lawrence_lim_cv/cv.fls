@@ -1,8 +1,8 @@
-PWD /Users/lawrencelim/Documents/Career/Latex/lawrence_lim_cv
+PWD /Users/lawrencelim/Projects/Web-Development/new-personal-website/static/docs/lawrence_lim_cv
 INPUT /usr/local/texlive/2023basic/texmf.cnf
 INPUT /usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023basic/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/lawrencelim/Documents/Career/Latex/lawrence_lim_cv/cv.tex
+INPUT /Users/lawrencelim/Projects/Web-Development/new-personal-website/static/docs/lawrence_lim_cv/cv.tex
 OUTPUT cv.log
 INPUT ./cv.cls
 INPUT ./cv.cls
