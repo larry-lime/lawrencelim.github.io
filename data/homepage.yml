@@ -1,0 +1,207 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Lawrence."
+  subtitle: "CS Student & SWE Intern"
+  description: "I am a Computer science student at NYU Shanghai and currently a Software Engineer intern at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>. I also have a curiosity and growing passion for entreprenuership."
+  image:
+    x: "img/ll_profile_pic.jpg"
+    _2x: "img/ll_profile_pic.jpg"
+  # TODO: Update the images here
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:ll4715@nyu.edu"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/lawrence-rx-lim/"
+
+    - icon: "github"
+      URL: "https://github.com/larry-lime"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/lawrence_lim__"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/lawrence_lim_"
+
+    # - icon: "youtube"
+    #   URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    # - icon: "facebook"
+    #   URL: "https://www.facebook.com/raditycom/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '
+    <p class="lead">
+    I’m a very easy going, sociable, fast-learner, curious and natural leader. I do what I love, and I love what I do. I lead by example and work side by side with my teams.
+
+    <p class="lead">
+    At my work, I work primarily in Python, using FastAPI and the LangChain framework to develop features that take advantage of the cababilities of LLMs
+    Beyond work, I am especially curious about blockchain applications and Zero-knowledge proofs.
+
+    <p class="lead">
+    My profile is a combination of technical and managerial experience, but always related to technological projects. I bring business and product vision to tech teams, partly thanks to having started an developed a company. I am a fast learner, curious to see how technology can improve the users experience in multiple areas. I have a strong motivation and sense of responsibility with myself, my team and clients (or peers), and people like my positive and easy going, can-do attitude.
+
+    <p class="lead">
+    On the technical side, I work mainly in Python, though I am working on expand my language skillset by working on some projects in Rust.
+    In terms of learning interests, I am especially curious about blockchain applications and Zero-knowledge proofs.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/lawrence-rx-lim/"
+  # TODO: Change this!
+  image:
+    x: "img/llim_talking.jpg"
+    _2x: "img/llim_talking.jpg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "New York University"
+      year: "2021-2025"
+      degree: "Bachelor of Science (BSc), Computer Science"
+
+    - university: "SJTU-THU-PKU"
+      year: "July 2023"
+      degree: "Summer Program, Computer Science"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/lawrence-rx-lim/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "docs/resume.pdf"
+    URL: "docs/resume.pdf"
+
+  items:
+    - title: "Software Engineering Intern"
+      company: "Knn3. Singapore (Remote)"
+      duration: "Mar 2023 - Present"
+
+    - title: "Technology Consultant Intern"
+      company: "Jika.io. Tel Aviv (Remote)"
+      duration: "Sep 2022 - May 2023"
+
+    - title: "Blockchain Research Analyst"
+      company: "TokenInsight. Beijing (Remote)"
+      duration: "Jun 2022 - Sep 2022"
+
+# Client & Work
+client_and_work:
+  title: "What I've worked on"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "K Transformer - Natural language to SQL"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See more"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Airline Ticket System - Expedia Clone"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See more"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Pyfinny - Financial Analysis CLI"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See more"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "https://formspree.io/f/mzblbvbd"
+    method: "POST"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+86 189 1752 5187"
+  email:
+    title: "Email"
+    email: '<a href="mailto:ll4715@nyu.edu">ll4715@nyu.edu</a>'
+  # TODO: Update this when I can
+  address:
+    title: "Address"
+    address: "424 Newburgh Court, West New York, New Jersey, USA"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
