@@ -80,7 +80,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Extensive experience working with companies from all over the world. I have architected & developed software solutions to help businesses improve and better people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
