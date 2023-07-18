@@ -10,7 +10,7 @@ showcase:
     _2x: "img/ll_profile_pic.jpg"
   imageMobile:
     alt: "Lawrence image"
-    x: "img/ll_profile_pic.jpg"
+    x: "img/ll_profile_pic_smaller.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -37,16 +37,17 @@ showcase:
     #   URL: "https://www.facebook.com/raditycom/"
 
 # about
+# TODO: Improve this section
 about:
   enable: true
   title: "Who am I?"
   content: '
     <p class="lead">
-    I’m a very easy going, sociable, fast-learner, curious and natural leader. I love what I do and I really enjoy leading a team
+    I’m a very easy going, sociable, fast-learner, curious and natural leader.
 
     <p class="lead">
     On the technical side, I work mainly in Python, though I am working on expand my language skillset by working on some projects in Rust.
-    In terms of learning interests, I am especially curious about blockchain applications and Zero-knowledge proofs.
+    As for my interests, I am especially curious about blockchain applications and Zero-knowledge proofs.
 
     <p class="lead">
     Alongside my role as a programmer, I possess significant leadership experience gained from various workplace and student organization engagements.
