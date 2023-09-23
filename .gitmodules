@@ -4,3 +4,6 @@
 [submodule "static/docs/lawrence_lim_resume"]
 	path = static/docs/lawrence_lim_resume
 	url = https://github.com/larry-lime/lawrence-lim-resume
+[submodule "themes/raditian-free-hugo-theme"]
+	path = themes/raditian-free-hugo-theme
+	url = https://github.com/radity/raditian-free-hugo-theme.git
