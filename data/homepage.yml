@@ -2,8 +2,8 @@
 showcase:
   enable: true
   title: "Hello, I’m Lawrence."
-  subtitle: "CS Student & SWE Intern"
-  description: "I am a Computer science student at NYU Shanghai and currently a Software Engineer intern at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>. I also have a curiosity and growing passion for entreprenuership."
+  subtitle: ""
+  description: "I am a Computer science student at NYU Shanghai and most recently a SWE intern at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>. I also have a curiosity and growing passion for entreprenuership."
   image:
     alt: "Lawrence image"
     x: "img/ll_profile_pic.jpg"
@@ -43,15 +43,14 @@ about:
   title: "Who am I?"
   content: '
     <p class="lead">
-    I’m a very easy going, sociable, fast-learner, curious and natural leader.
+    I’m an  easy going, sociable, fast-learner, curious and natural leader.
 
     <p class="lead">
     On the technical side, I work mainly in Python, though I am working on expand my language skillset by working on some projects in Rust.
-    As for my interests, I am especially curious about blockchain applications and Zero-knowledge proofs.
+    As for my interests, I am especially curious about blockchain and ZKP applications
 
     <p class="lead">
     Alongside my role as a programmer, I possess significant leadership experience gained from various workplace and student organization engagements.
-    I derive immense satisfaction from collaborating within a team to achieve objectives that surpass our individual skillsets.
 
     </p>'
   button:
@@ -80,7 +79,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Extensive experience working with companies from all over the world. I have architected & developed software solutions to help businesses improve and better people's lives."
+  description: "Extensive experience working with companies from all over the world. I have architected & developed software solutions to help businesses improve and scale."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -105,7 +104,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "What I've worked on"
+  title: "Some things I've worked on"
   enable: true
 
   clients:
@@ -140,8 +139,19 @@ client_and_work:
       alt: "Ztos"
 
   works:
+    - title: "HealthFirstAI Prototype - AI Powered Health and Fitness Coach"
+      description: "HealthFirst AI makes personalized health and fitness coaching accessible to the masses through a beautifully designed and user-friendly app that leverages the emergent capabilities of generative AI."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See more"
+        URL: "https://youtu.be/FFocBeiQ8dE"
+      image:
+        x: "img/Chat.png"
+        _2x: "img/Chat.png"
+      is_even: true
+
     - title: "K Transformer - Natural language to SQL"
-      description: "Natural language to SQL conversion feature for Knn3's K Transformer product. This feature supports Q&A style interaction and does not require user to know database schema"
+      description: "Natural language to SQL conversion feature for Knn3's K Transformer product. This feature supports Q&A style interaction and not requiring the user to know database schema"
       button:
         icon: "icon-arrow-right"
         btnText: "Try it Out"
@@ -149,7 +159,7 @@ client_and_work:
       image:
         x: "img/K_transformer.jpg"
         _2x: "img/K_transformer.jpg"
-      is_even: true
+      is_even: false
 
     - title: "Airline Ticket System - Expedia Clone"
       description: "Leveraged Flask, MySQL database, and Bootstrap CSS to create an airline booking system inspired by Expedia.com. Utilizes functions such as session tokens, user password hashing, and SQL triggers"
@@ -160,18 +170,6 @@ client_and_work:
       image:
         x: "img/airline_project_screenshot.png"
         _2x: "img/airline_project_screenshot.png"
-      is_even: false
-
-    - title: "MeChat – Python GUI Desktop Chat App"
-      description: "Utilizes web sockets for communication, end-to-end RSI encryption for security, and client-side multi-threading. Uses Tkinter Python library used for the GUI. Project currently used as a showcase in Intro to Comp. Sci class
-"
-      button:
-        icon: "icon-arrow-right"
-        btnText: "See more"
-        URL: "https://github.com/larry-lime/MeChat"
-      image:
-        x: "img/mechat_image.jpg"
-        _2x: "img/mechat_image.jpg"
       is_even: true
 
 # contact
@@ -186,7 +184,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+86 189 1752 5187"
+    number: "+1 551 229 5627"
   email:
     title: "Email"
     email: '<a href="mailto:ll4715@nyu.edu">ll4715@nyu.edu</a>'
