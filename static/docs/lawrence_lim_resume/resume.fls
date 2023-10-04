@@ -1,8 +1,8 @@
-PWD /Users/lawrencelim/Projects/Web-Development/new-personal-website/static/docs/lawrence_lim_resume
+PWD /Users/lawrencelim/Projects/lawrence-lim-resume
 INPUT /usr/local/texlive/2023basic/texmf.cnf
 INPUT /usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023basic/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/lawrencelim/Projects/Web-Development/new-personal-website/static/docs/lawrence_lim_resume/resume.tex
+INPUT /Users/lawrencelim/Projects/lawrence-lim-resume/resume.tex
 OUTPUT resume.log
 INPUT ./resume.cls
 INPUT ./resume.cls
