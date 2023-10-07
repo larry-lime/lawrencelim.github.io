@@ -10,6 +10,7 @@
 1. [Citi](https://citi.wd5.myworkdayjobs.com/en-US/2/userHome)
 
 ## Pending Applications
+- [Zoox](https://simplify.jobs/p/efa1102e-0e81-4537-b3c4-59fd71772f3f/Backend-Software-Engineering-Intern) 
 
 ## Ongoing Online Assessments
 
