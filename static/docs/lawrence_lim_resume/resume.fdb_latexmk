@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1698282401 "/Users/lawrencelim/Projects/lawrence-lim-resume/resume.tex" "resume.pdf" "resume" 1698282401 0
+["pdflatex"] 1698284487 "/Users/lawrencelim/Projects/lawrence-lim-resume/resume.tex" "resume.pdf" "resume" 1698284487 0
   "/Users/lawrencelim/Library/texlive/2023basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk" 1688556959 12644 9616fe34282dd44a3a0d5e82b97c4966 ""
-  "/Users/lawrencelim/Projects/lawrence-lim-resume/resume.tex" 1698282401 6956 1068c5d99147bde82b53f97f32d899fb ""
+  "/Users/lawrencelim/Projects/lawrence-lim-resume/resume.tex" 1698284487 6948 10b567212c847212e2ef076f6209374e ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -70,10 +70,10 @@
   "/usr/local/texlive/2023basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684849799 79187 a212674abc6f82b1106fd07c11c06692 ""
   "/usr/local/texlive/2023basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1684849787 7200383 81c0693921902dd8fc22a410c03fe6ca ""
   "/usr/local/texlive/2023basic/texmf.cnf" 1678817979 628 bde3cc671e29677eea4172140533535c ""
-  "resume.aux" 1698282401 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
+  "resume.aux" 1698284487 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
   "resume.cls" 1697560852 4923 cc5d2a64011555b74ceab47cc4a09383 ""
-  "resume.out" 1698282401 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1698282401 6956 1068c5d99147bde82b53f97f32d899fb ""
+  "resume.out" 1698284487 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1698284487 6948 10b567212c847212e2ef076f6209374e ""
   (generated)
   "resume.aux"
   "resume.log"
