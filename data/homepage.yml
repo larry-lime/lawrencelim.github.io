@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Lawrence."
   subtitle: ""
-  description: "I am a Computer science student at NYU Shanghai and most recently a SWE intern at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>. I also have a curiosity and growing passion for entreprenuership."
+  description: "I am a Computer Science student at NYU Shanghai and most recently a SWE intern at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>. I also have a curiosity and growing passion for entreprenuership."
   image:
     alt: "Lawrence image"
     x: "img/ll_profile_pic.jpg"
