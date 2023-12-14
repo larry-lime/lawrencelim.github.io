@@ -87,7 +87,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "docs/lawrence_lim_resume/Lawrence_Lim_resume.pdf"
+    URL: "https://larry-lime.github.io/lawrence-lim-resume/Lawrence_Lim_resume.pdf"
 
   items:
     - title: "Software Engineering Intern"
