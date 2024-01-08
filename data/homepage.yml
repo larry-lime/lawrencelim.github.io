@@ -102,7 +102,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Some things I've worked on"
-  enable: true
+  enable: false
 
   clients:
     - logo:
