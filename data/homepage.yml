@@ -81,10 +81,10 @@ experience:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/lawrence-rx-lim/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "https://larry-lime.github.io/lawrence-lim-resume/Lawrence_Lim_resume.pdf"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "https://larry-lime.github.io/lawrence-lim-resume/Lawrence_Lim_resume.pdf"
 
   items:
     - title: "Software Engineering Intern"
