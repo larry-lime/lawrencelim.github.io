@@ -49,9 +49,6 @@ about:
     On the technical side, I work mainly in Python, though I am working on expand my language skillset by working on some projects in Rust.
     As for my interests, I am especially curious about blockchain and ZKP applications.
 
-    <p class="lead">
-    Alongside my role as a programmer, I possess significant leadership experience gained from various workplace and student organization engagements.
-
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -68,12 +65,12 @@ education:
   title: "Education"
   items:
     - university: "New York University"
-      year: "2021-2025"
+      # year: "2021-2025"
       degree: "Bachelor of Science (BSc), Computer Science"
 
-    - university: "Tenafly High School"
-      year: "Sep 2016 - June 2020"
-      degree: "High School Diploma, AP Scholar with Honors"
+    # - university: "Tenafly High School"
+    #   year: "Sep 2016 - June 2020"
+    #   degree: "High School Diploma, AP Scholar with Honors"
 
 # experience
 experience:
