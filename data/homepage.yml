@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Lawrence."
   subtitle: ""
-  description: "I was most recently a SWE at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>. Currently the CTO of a Stealth startup"
+  description: "Recently interested in programming languages, blockchain, and biohacking. Currently the CTO of a Stealth startup. Former SWE at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>."
   image:
     alt: "Lawrence image"
     x: "img/ll_profile_pic.jpg"
