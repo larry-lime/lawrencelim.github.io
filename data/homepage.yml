@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Lawrence."
   subtitle: ""
-  description: "Recently interested in programming languages, blockchain, and biohacking. Currently the CTO of a Stealth startup. Former SWE at <a target='_blank' href='https://www.knn3.xyz/'>Knn3</a>."
+  description: "Interested in programming languages, blockchain, and biohacking. Currently the CTO of a Stealth startup."
   image:
     alt: "Lawrence image"
     x: "img/ll_profile_pic.jpg"
@@ -25,7 +25,7 @@ showcase:
       URL: "https://github.com/larry-lime"
 
     - icon: "twitter"
-      URL: "https://twitter.com/lawrence_lim__"
+      URL: "https://twitter.com/lawrencelimxyz"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/lawrence_lim_"
