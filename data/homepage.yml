@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Lawrence."
   subtitle: ""
-  description: "Interested in programming languages, blockchain, and biohacking. Currently the CTO of a Stealth startup."
+  description: "Interested in all things blockchain, crypto, and biohacking. Currently the CTO of a Stealth startup."
   image:
     alt: "Lawrence image"
     x: "img/ll_profile_pic.jpg"
